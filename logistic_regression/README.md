@@ -1,6 +1,6 @@
 ### Logistic regression example
 
-*author:* viktorsohajek
+**author:** viktorsohajek
 
 This exaple is a jupyter notebook
 
