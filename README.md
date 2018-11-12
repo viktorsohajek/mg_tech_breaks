@@ -8,7 +8,7 @@ This is a repository for storing projects/presentations from tech breaks of Data
   - Include the requirements.txt
   - The notebook is prefered way of sharing. Commented source code is also OK though. 
   - Keep in mind, that not everyone knows about the topic as much as you do, so pls comment your code.
-* Make a readme.md file with:
+* Make a readme.md ([MarkDown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)) file with:
   - Topic description.
   - "What will I learn from the topic" comment.
   - What should I do to run the code if included.
