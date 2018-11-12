@@ -5,7 +5,7 @@ This lecture will give you the idea about how Random Forest machine learning mod
 **Prerequisities:** 
 * Decision Tree lecture
 
-**Language: Python3**
+**Language:** Python3
 
 **Author:** Viktor Sohajek
 
