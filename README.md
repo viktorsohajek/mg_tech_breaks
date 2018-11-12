@@ -11,3 +11,4 @@ Each project is mapped into a separate folder.
 | 19.11.2018 | Jan Sipek      | Git basics II     |
 | 26.11.2018 | Viktor Sohajek | Gradient Boosting |
 | 3.12.2018  | ####           | ####              |
+| 10.12.2018  | ####           | ####              |
