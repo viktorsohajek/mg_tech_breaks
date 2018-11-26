@@ -1,3 +1,5 @@
 Logistic regression demo-checkpoint.ipynb
 decision_trees/venv_trees
 random_forest/venv_rforest
+gradient_boosting/.ipynb_checkpoints
+gradient_boosting/venv_gbm
