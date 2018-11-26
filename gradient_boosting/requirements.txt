@@ -1,0 +1,6 @@
+cufflinks
+plotly
+pandas
+scikit-learn
+graphviz
+jupyter
