@@ -21,6 +21,7 @@ This is a repository for storing projects/presentations from tech breaks of Data
 | 19.11.2018 | Jan Sipek      | Git basics II             |
 | 26.11.2018 | Viktor Sohajek | Gradient Boosting         |
 | 3.12.2018  | Jan Sipek      | Pythoning like a boss 101 |
-| 10.12.2018 | ####           | ####                      |
+| Xmax       | Santa Clouse   | Xmas Break                |
+| 21.1.2019  | Viktor Sohajek | Neural Networks I         |
 
 **Note: If you have some interesting topic you'd like to share, just contact anyone from DS team and we will fill you in ;- )**
