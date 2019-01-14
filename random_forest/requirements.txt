@@ -1,4 +1,3 @@
-wand
 plotly
 pandas
 scikit-learn
