@@ -1,0 +1,6 @@
+Pillow
+matplotlib
+plotly
+pandas
+scikit-learn
+jupyter
