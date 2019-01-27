@@ -23,5 +23,6 @@ This is a repository for storing projects/presentations from tech breaks of Data
 | 3.12.2018  | Jan Sipek      | Pythoning like a boss 101 |
 | Xmax       | Santa Clouse   | Xmas Break                |
 | 21.1.2019  | Viktor Sohajek | Neural Networks I         |
+| 27.1.2019  | Michal Todt    | Visualization in n-dims   |
 
 **Note: If you have some interesting topic you'd like to share, just contact anyone from DS team and we will fill you in ;- )**
