@@ -13,6 +13,9 @@ This is a repository for storing projects/presentations from tech breaks of Data
   - "What will I learn from the topic" comment.
   - What should I do to run the code if included.
 
+# TechBreaks' rules
+* The record in Timetables for upcoming event must be inserted due the predcessing Thursday 10PM.
+* If no topic is listed on Friday morning, the Monday event is canceled. 
 
 # Timetables for upcoming events:
 
