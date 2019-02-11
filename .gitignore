@@ -3,3 +3,5 @@ decision_trees/venv_trees
 random_forest/venv_rforest
 gradient_boosting/.ipynb_checkpoints
 gradient_boosting/venv_gbm
+scikit_pipelines/data/bbc
+scikit_pipelines/venv_pipelines
