@@ -28,5 +28,6 @@ This is a repository for storing projects/presentations from tech breaks of Data
 | 21.1.2019  | Viktor Sohajek | Neural Networks I         |
 | 27.1.2019  | Michal Todt    | Visualization in n-dims   |
 | 11.2.2019  | Viktor Sohajek | Scikit pipelines          |
+| 25.2.2019  | Samuel Hudec   | LDA Topic Model           |
 
 **Note: If you have some interesting topic you'd like to share, just contact anyone from DS team and we will fill you in ;- )**
