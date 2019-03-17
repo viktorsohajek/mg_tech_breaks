@@ -30,5 +30,6 @@ This is a repository for storing projects/presentations from tech breaks of Data
 | 11.2.2019  | Viktor Sohajek | Scikit pipelines          |
 | 25.2.2019  | Samuel Hudec   | LDA Topic Model           |
 | 18.3.2019  | Michal Todt    | Computational Notebooks I.|
+| 25.3.2019  | Viktor Sohajek | Word2Vec Algorithm        |
 
 **Note: If you have some interesting topic you'd like to share, just contact anyone from DS team and we will fill you in ;- )**
