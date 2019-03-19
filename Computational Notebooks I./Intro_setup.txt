@@ -1,0 +1,31 @@
+------------------------------
+Terminology
+------------------------------
+IPython = interactive shell which can interpret python commands (standard python with extension to communicate with various frontends and more)
+IPython Notebook = Non-existent predeseccor to jupyter notebook
+Jupyter = new project splited away from iPython, aimed to be language agnostic
+Jupyter Notebook = interactive (you run a code and make changes) notebook, which combains text and code, intended for prototyping and sharing
+https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/
+Jupyter Lab - web based IDE, allows to drag and drop cells and more
+Jupyter Hub - allows to mange permission for multiple users when deployed on cluster
+Kernel - language backend R,Python,Ruby,JS, 100+
+
+
+------------------------------
+Setup (supposed to by run by Bash)
+------------------------------
+virtualenv test_env                # Crate a virtual env
+source test_env/bin/activate.      # activate it 
+
+
+python3 -m pip install jupyter     # install jupyter
+python3 -m pip install jupyterlab  # (optionally) install jupyerlab  
+
+------------------------------
+Inner Structure
+------------------------------
+The *.ipynb files (jupyter notebooks) are simple JSON file, which are human readable and you can utilize the fact.
+The file opener.py takes one argument and pastes it at the end of the first cell in notebook 01.ipynb
+
+example run:
+python3 opener.py --yourargument

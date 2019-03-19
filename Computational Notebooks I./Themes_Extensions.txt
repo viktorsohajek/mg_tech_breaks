@@ -1,0 +1,19 @@
+------------------------------
+Themes 
+------------------------------
+python3 -m pip install jupyterthemes.  # install themes
+jt -t chesterish                       # select a particular theme
+jt -r                                  # resets the theme
+
+------------------------------
+Extensions (after installing and enabling the library adds extension tab to your notebook)
+------------------------------
+python3 -m pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install 
+jupyter contrib nbextension install --user
+jupyter nbextension enable spellchecker/main
+jupyter nbextension enable codefolding/main
+
+Documenation for extensions:
+https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions.html
+
+You have to restart the server after enabling the extensions
