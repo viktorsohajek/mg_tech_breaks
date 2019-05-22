@@ -33,5 +33,6 @@ This is a repository for storing projects/presentations from tech breaks of Data
 | 25.3.2019  | Viktor Sohajek | Word2Vec Algorithm        |
 | 8.4.2019   | Jan Sipek      | elasticsearch: co to zere, kde to spava |
 | 20.5.2019  | Jiri Hruban    | Google What-If Tool       |
+| 27.5.2019  | Viktor Sohajek | Elastic net regression    |
 
 **Note: If you have some interesting topic you'd like to share, just contact anyone from DS team and we will fill you in ;- )**
