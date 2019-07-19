@@ -35,6 +35,7 @@ This is a repository for storing projects/presentations from tech breaks of Data
 | 20.5.2019  | Jiri Hruban    | Google What-If Tool       |
 | 27.5.2019  | Viktor Sohajek | Elastic net regression    |
 | 24.6.2019  | Samuel Hudec   | Statistical Inference     |
+| 29.7.2019  | Samuel Hudec   | H2O overview              |
 | 5.8.2019   | Viktor Sohajek | Transfer learning         |
 
 **Note: If you have some interesting topic you'd like to share, just contact anyone from DS team and we will fill you in ;- )**
