@@ -3,10 +3,10 @@
 This is a repository for storing projects/presentations from tech breaks of Data Science team. The objective is to get to know people that work with data in MG, learn something new, share & have a breakfast. There are no limits for the level of advance for the topics - if you have something that interest you, just go for it and share it with us.
 
 # Repository rules
-* Each project is mapped into a separate folder. 
+* Each project is mapped into a separate folder.
 * If your presentation includes code:
   - Include the requirements.txt
-  - The notebook is prefered way of sharing. Commented source code is also OK though. 
+  - The notebook is prefered way of sharing. Commented source code is also OK though.
   - Keep in mind, that not everyone knows about the topic as much as you do, so pls comment your code.
 * Make a readme.md ([MarkDown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)) file with:
   - Topic description.
@@ -15,7 +15,7 @@ This is a repository for storing projects/presentations from tech breaks of Data
 
 # TechBreaks' rules
 * The record in Timetables for upcoming event must be inserted due the predcessing Thursday 10PM.
-* If no topic is listed on Friday morning, the Monday event is canceled. 
+* If no topic is listed on Friday morning, the Monday event is canceled.
 
 # Timetables for upcoming events:
 
@@ -35,5 +35,6 @@ This is a repository for storing projects/presentations from tech breaks of Data
 | 20.5.2019  | Jiri Hruban    | Google What-If Tool       |
 | 27.5.2019  | Viktor Sohajek | Elastic net regression    |
 | 24.6.2019  | Samuel Hudec   | Statistical Inference     |
+| 5.8.2019   | Viktor Sohajek | Transfer learning         |
 
 **Note: If you have some interesting topic you'd like to share, just contact anyone from DS team and we will fill you in ;- )**
