@@ -10,5 +10,5 @@ This lecture will give you the main idea behind Transfer Learning approach. Than
 **Author:** Viktor Sohajek
 
 # Manual
-To see what is in the box, just open the static neural_networks.html file. To go through the code, just download the folder, setup virtualenv (volutary), install packages from requirements.txt and open
-.ipynb jupyter notebook.
+To go through the code, just download the folder, setup virtualenv (volutary), install packages from requirements.txt and **open
+.ipynb jupyter notebook**.
